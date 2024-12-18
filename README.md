@@ -1,5 +1,5 @@
 # Bybs
-![App Screenshot](plz.PNG)
+![App Screenshot](plz.png)
 A Swift-based iOs app  for people that want to improve their spiritual and physical life through particular tasks.
 
 ## Index
